@@ -1,0 +1,22 @@
+Camera=LUMENERA_LW160
+Red=108
+Green=64
+Blue=24
+ExposureTime=7.975000
+Gain=1.000000
+ObjectDistance=30.000000
+GIMBAL 
+ pitch = -89.9000015259 
+ roll = 1.6000000238 
+ yaw = -1.7999999523 
+POS
+ altitude = 1173.7352294922 
+ latitude = 0.4539861477
+ longitude = 1.8601008078
+ height = 201.0909423828 
+ QuaternionData 
+ q0 = 0.2372433245 
+ q1 = -0.0347586423 
+ q2 = -0.0060196901 
+ q3 = -0.9708095789 
+Angle = -152.525066
